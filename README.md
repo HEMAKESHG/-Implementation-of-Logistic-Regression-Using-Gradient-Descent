@@ -98,9 +98,28 @@ xnew=np.array([[0,0,0,0,0,2,8,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print(y_prednew)
 ```
-## Output:
-![logistic regression using gradient descent](sam.png)
 
+## Output:
+### Read the file and display
+![image](https://github.com/HEMAKESHG/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144870552/bc7987e8-5692-45ec-9846-1260acd23589)
+
+### Categorizing columns
+![image](https://github.com/HEMAKESHG/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144870552/1627070b-4598-4cac-8e09-7db6bb38cbb1)
+
+### Labelling columns and displaying dataset
+![image](https://github.com/HEMAKESHG/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144870552/1b5b25dd-e3d9-4894-aa06-c37003a472c7)
+
+### Display dependent variable
+![image](https://github.com/HEMAKESHG/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144870552/d89aacb5-d607-4374-9bdc-6ab6d03e4f80)
+
+### Printing accuracy
+![Screenshot 2024-04-26 191048](https://github.com/HEMAKESHG/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144870552/a44f1150-c934-4aad-8b34-2f49ba20a74b)
+
+### Printing Y
+![image](https://github.com/HEMAKESHG/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144870552/ca6cdec0-8262-4f77-8474-e98f33078410)
+
+### Printing y_prednew
+![image](https://github.com/HEMAKESHG/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144870552/578d5f7c-e4fe-4878-a47f-5386a5ecfadd)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
